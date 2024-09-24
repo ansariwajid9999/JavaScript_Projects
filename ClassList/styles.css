@@ -1,0 +1,25 @@
+#myH1{
+  font-size: 5rem;
+  padding: 10px 15px;
+  width: 80%;
+  cursor: pointer;
+}
+#myBtn{
+  font-size: 4rem;
+  margin: 10px;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+.enabled{
+  background-color: aqua;
+  color: white;
+}
+.hover{
+  box-shadow: 0 0 10px rgb(40, 37, 37);
+  font-weight: bold;
+}
+.disabled{
+  background-color: rgb(180, 176, 176);
+  color: grey;
+}
